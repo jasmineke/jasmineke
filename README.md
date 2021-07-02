@@ -1,6 +1,6 @@
 ### hiya there ✨🌿
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmineke&show_icons=true&title_color=98705C&icon_color=AEBF99&text_color=C7DDA8)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmineke&show_icons=true&title_color=98705C&icon_color=98705C&text_color=D2A083)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasmineke&repo=jasmineke.github.io&title_color=AEBF99&icon_color=AEBF99&text_color=C7DDA8)](https://github.com/jasmineke/jasmineke.github.io)
 
