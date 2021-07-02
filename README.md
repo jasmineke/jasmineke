@@ -1,6 +1,6 @@
 ### hiya there ✨🌿
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmineke)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmineke&show_icons=true&title_color=#AEBF99)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
