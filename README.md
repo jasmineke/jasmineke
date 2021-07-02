@@ -1,4 +1,5 @@
 ### hiya there ✨🌿
+I'm Jasmine! I do a bit of coding from time to time. I also love matcha, art and ukulele.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmineke&show_icons=true&title_color=98705C&icon_color=98705C&text_color=D2A083&bg_color=FFF8F1)](https://github.com/anuraghazra/github-readme-stats)
 
