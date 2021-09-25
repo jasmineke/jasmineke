@@ -1,7 +1,9 @@
 ### hiya there ✨🌿
-I'm Jasmine! I do a bit of coding from time to time. I also love matcha, art and ukulele.
+I'm Jasmine! I do a bit of coding from time to time. I also love matcha, art and ukulele. Find me on [devpost](https://devpost.com/jsminea)!
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmineke&show_icons=true&title_color=98705C&icon_color=98705C&text_color=D2A083&bg_color=FFF8F1)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 Here are some projects I'm a little more proud of: <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasmineke&repo=jasmineke.github.io&title_color=AEBF99&icon_color=AEBF99&bg_color=FFF8F1&text_color=C7DDA8)](https://github.com/jasmineke/jasmineke.github.io)
